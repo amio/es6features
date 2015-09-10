@@ -12,7 +12,11 @@
 
 > 本文[最初](https://github.com/amio/es6features-depr-)翻译自 [lukehoban/es6features](https://github.com/lukehoban/es6features)，也就是 Babel 那篇 Learn ES6 的起源。翻了一半发现 Axel Rauschmayer 发出来一篇书写更友好的 [ES6 入门介绍](http://www.2ality.com/2015/08/getting-started-es6.html)，除了速查语法以外更适合做刚接触 ES6 的入门学习，所以改为基于此文而翻。Axel Rauschmayer 也是 [Exploring ES6](http://exploringjs.com/) 的作者，每个特性简介的结束都有相应详述章节的链接，完美。
 
-## 从 `var` 到 `let`/`const`
+## 索引
+
+- [从 `var` 到 `let/const`](#从-var-到-letconst)
+
+## 从 `var` 到 `let/const`
 
 ES6 引入了两个声明变量的新关键字：
 - `let`：块级作用域的 `var`
